@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/Alireza-Mirzadeh/Alireza-Mirzadeh/blob/main/GitHub_Banner.png" 
-       width="80%" 
+       width="100%" 
        alt="Alireza - NLP & ML">
 </p>
 
