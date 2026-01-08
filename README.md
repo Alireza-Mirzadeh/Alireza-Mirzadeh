@@ -1,10 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Alireza-Mirzadeh/Alireza-Mirzadeh/blob/main/GitHub_Banner.png" 
-       width="100%" 
-       alt="Alireza - NLP & ML">
-</p>
-
 <h1 align="center">Hi, I'm Alireza 👋</h1>
 <h3 align="center">Master's Student in NLP | Machine Learning & Data Science</h3>
 
@@ -18,11 +11,6 @@ My background combines **applied linguistics**, **ML/NLP engineering**, and hand
 **Master’s in Natural Language Processing**  
 Université de Lorraine — *2024–Present*  
 *Neural Networks, Large Language Models, Linguistics, Language Data Processing*
-
----
-
-## 📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alireza-Mirzadeh&show_icons=true&hide_title=true&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Mirzadeh&layout=compact&hide_border=true" /> </p>
 
 ---
 
