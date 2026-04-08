@@ -6,7 +6,7 @@ Master’s student specializing in Natural Language Processing (NLP) with a stro
 
 ---
 
-**Master’s in Natural Language Processing**  
+**MSc in Natural Language Processing**  
 Université de Lorraine — *2024–Present*  
 *Neural Networks, Large Language Models, Linguistics, Language Data Processing*
 
